@@ -9,7 +9,7 @@ Computer Science student at **TU Darmstadt**, interested in both
 - **Tools:** Linux, Git, Docker
 
 ## 🚀 Projects
-- **[Reaction Time Game Console](link)**: two-player reaction game with
+- **[Reaction Time Game Console](https://github.com/rascho2/reaction-time-game)**: two-player reaction game with
   STM32 game logic and a Raspberry Pi as I/O interface via UART (team project)
 - **IoT Sensor Station** *(in progress)*: BME280 sensor data from a
   Raspberry Pi to a self-built backend and web dashboard via MQTT
